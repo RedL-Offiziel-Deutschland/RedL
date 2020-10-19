@@ -31,7 +31,7 @@ The process of language RedL:
 1.The preprocessor:
 
     a)Performs the function of creating an intermediate file with extracted files and recording their descriptions. 
-    b)Preparing program arguments and then passing ""To the interpreter"".
+    b)Preparing program arguments and then passing "To the interpreter".
 
 2.Translator:
 
@@ -78,7 +78,7 @@ Redl-sprachprozesse:
 1.Preprozessor:
 
     a) dient zum erstellen einer Zwischendatei mit den extrahierten Dateien und zum schreiben Ihrer Beschreibung. 
-    b) Erstellung von programmargumenten und anschließende übergabe «»an den Übersetzer»».
+    b) Erstellung von programmargumenten und anschließende übergabe "an den Übersetzer".
 
 2.Übersetzer:
 
@@ -122,7 +122,7 @@ Redl-sprachprozesse:
   1.Препроцессор:
   
     a)Выполняет функцию создание промежуточного файла с извлечёнными файлами и запись их описания.         
-    b)Подготовка аргументов программы и последующая передача  «»Переводчику»».
+    b)Подготовка аргументов программы и последующая передача  "Переводчику".
     
 2.Переводчик:
 
