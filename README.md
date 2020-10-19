@@ -1,10 +1,10 @@
 # RedL
 
 
-#Official Email - offiziel.redl.deutschland@gmail.com
+# Official Email - offiziel.redl.deutschland@gmail.com
 
 
-#Eng
+# Eng
 
 
 RedL description :
@@ -48,7 +48,7 @@ The process of language RedL:
 
 
 
-#Deutsch
+# Deutsch
 
 
 
@@ -93,7 +93,7 @@ Redl-sprachprozesse:
 
 
 
-#RUS
+# RUS
 
 
 
